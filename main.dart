@@ -1,48 +1,4 @@
-/*import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const MyApp());
-}
-
-class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Scaffold(
-        body: Container(
-          color: Colors.yellow,
-        ),
-        bottomNavigationBar: Container(
-          color: Colors.red,
-          child: BottomNavigationBar(
-            iconSize: 46.0,
-            elevation: 10.0,
-            items: [
-              BottomNavigationBarItem(
-                icon: Icon(Icons.home, color: Colors.pink),
-                label: 'home',
-              ),
-              BottomNavigationBarItem(
-                icon: Icon(Icons.home, color: Colors.pink),
-                label: 'home',
-              ),
-              BottomNavigationBarItem(
-                icon: Icon(Icons.home, color: Colors.pink),
-                label: 'home',
-              ),
-              BottomNavigationBarItem(
-                icon: Icon(Icons.home, color: Colors.pink, size: 46.0),
-                label: 'home',
-              ),
-            ],
-          ),
-        ),
-      ),
-    );
-  }
-}*/
 import 'package:flutter/material.dart';
 
 void main() {
